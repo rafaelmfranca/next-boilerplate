@@ -49,9 +49,15 @@ jobs:
 
             - name: Run tests
               run: yarn test
+            
+            - name: Code cov
+              uses: codecov/codecov-action@v2
+              with:
+                token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
 
             - name: Build
               run: yarn build
 
             # - name: Run e2e test
             #   run: yarn cypress:test
+            

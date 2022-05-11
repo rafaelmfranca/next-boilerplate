@@ -1,4 +1,5 @@
-[![CI](https://github.com/rafaelmfranca/next-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/rafaelmfranca/next-boilerplate/actions/workflows/ci.yml)
+[![CI](https://github.com/rafaelmfranca/next-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/rafaelmfranca/next-boilerplate/actions/workflows/ci.yml) 
+[![codecov](https://codecov.io/gh/rafaelmfranca/next-boilerplate/branch/main/graph/badge.svg?token=7NF329JMS1)](https://codecov.io/gh/rafaelmfranca/next-boilerplate)
 
 # This is a simple and effective [Next.js](https://nextjs.org/) boilerplate
 ## Features

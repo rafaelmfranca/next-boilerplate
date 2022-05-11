@@ -1,4 +1,4 @@
-# This is a simple [Next.js](https://nextjs.org/) boilerplate
+# This is a simple an effective [Next.js](https://nextjs.org/) boilerplate
 ## Features
 
 This project uses lot of stuff as:
@@ -10,8 +10,9 @@ This project uses lot of stuff as:
 - :closed_book: UI component explorer with [Storybook](https://storybook.js.org/)
 - 📏 Linter with [Eslint](https://eslint.org/) + code formatter with [Prettier](https://prettier.io/)
 - 🦊 [Husky](https://github.com/typicode/husky) for Git Hooks
-- 🚫 Lint-staged for running linters on Git staged files
-- 🚓 Lint git commit with Commitlint
+- 🚫 [Lint-staged](https://github.com/okonet/lint-staged) for running linters on Git staged files
+- 🚓 Lint git commit with [Commitlint](https://commitlint.js.org/#/)
+- 💧 Save your time creating component files with consistency with [Plop](https://plopjs.com/)
 
 ## Getting Started
 
@@ -37,3 +38,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+- `generate`: create component scaffold with consistency

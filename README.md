@@ -1,3 +1,5 @@
+[![CI](https://github.com/rafaelmfranca/next-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/rafaelmfranca/next-boilerplate/actions/workflows/ci.yml)
+
 # This is a simple and effective [Next.js](https://nextjs.org/) boilerplate
 ## Features
 

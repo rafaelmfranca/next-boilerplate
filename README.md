@@ -1,4 +1,4 @@
-# This is a simple an effective [Next.js](https://nextjs.org/) boilerplate
+# This is a simple and effective [Next.js](https://nextjs.org/) boilerplate
 ## Features
 
 This project uses lot of stuff as:
